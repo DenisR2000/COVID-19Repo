@@ -1,0 +1,76 @@
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\WPFCovid-19.exe.config
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\WPFCovid-19.exe
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\WPFCovid-19.pdb
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\COVIDManager.dll
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\EntityFramework.dll
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\MaterialDesignColors.dll
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\COVIDManager.pdb
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\EntityFramework.xml
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\View\MainWindow.g.cs
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\App.g.cs
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19_MarkupCompile.cache
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19_MarkupCompile.lref
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\App.baml
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\View\MainWindow.baml
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.g.resources
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid_19.Properties.Resources.resources
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.csproj.CopyComplete
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.exe
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.pdb
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19_Content.g.cs
+C:\Users\Denis\source\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.csproj.AssemblyReference.cache
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\WPFCovid-19.exe.config
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\WPFCovid-19.exe
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\WPFCovid-19.pdb
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\COVIDManager.dll
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\EntityFramework.dll
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\MaterialDesignColors.dll
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\Newtonsoft.Json.dll
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\System.Windows.Interactivity.dll
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\COVIDManager.pdb
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\EntityFramework.xml
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\MaterialDesignColors.pdb
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\Newtonsoft.Json.xml
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\bin\Debug\System.Windows.Interactivity.xml
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.csproj.AssemblyReference.cache
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\View\MainWindow.g.cs
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\App.g.cs
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19_Content.g.cs
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19_MarkupCompile.cache
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19_MarkupCompile.lref
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\App.baml
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\View\MainWindow.baml
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.g.resources
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid_19.Properties.Resources.resources
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.csproj.GenerateResource.cache
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.csproj.CoreCompileInputs.cache
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.csproj.CopyComplete
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.exe
+D:\Windows\Vs apps\repos\COVID19\WPFCovid-19\obj\Debug\WPFCovid-19.pdb

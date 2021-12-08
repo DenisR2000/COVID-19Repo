@@ -1,0 +1,12 @@
+C:\Users\Denis\source\repos\COVID19\COVID19\bin\Debug\COVID19.exe.config
+C:\Users\Denis\source\repos\COVID19\COVID19\bin\Debug\COVID19.exe
+C:\Users\Denis\source\repos\COVID19\COVID19\bin\Debug\COVID19.pdb
+C:\Users\Denis\source\repos\COVID19\COVID19\bin\Debug\COVIDManager.dll
+C:\Users\Denis\source\repos\COVID19\COVID19\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Denis\source\repos\COVID19\COVID19\bin\Debug\COVIDManager.pdb
+C:\Users\Denis\source\repos\COVID19\COVID19\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Denis\source\repos\COVID19\COVID19\obj\Debug\COVID19.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\COVID19\COVID19\obj\Debug\COVID19.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\COVID19\COVID19\obj\Debug\COVID19.csproj.CopyComplete
+C:\Users\Denis\source\repos\COVID19\COVID19\obj\Debug\COVID19.exe
+C:\Users\Denis\source\repos\COVID19\COVID19\obj\Debug\COVID19.pdb

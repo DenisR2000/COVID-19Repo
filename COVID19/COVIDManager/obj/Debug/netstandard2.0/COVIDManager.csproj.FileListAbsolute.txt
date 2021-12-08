@@ -1,0 +1,49 @@
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\COVIDManager.deps.json
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\COVIDManager.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\COVIDManager.pdb
+C:\Users\Denis\source\repos\COVID19\COVIDManager\obj\Debug\netstandard2.0\COVIDManager.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\COVID19\COVIDManager\obj\Debug\netstandard2.0\COVIDManager.AssemblyInfo.cs
+C:\Users\Denis\source\repos\COVID19\COVIDManager\obj\Debug\netstandard2.0\COVIDManager.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\COVID19\COVIDManager\obj\Debug\netstandard2.0\COVIDManager.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\obj\Debug\netstandard2.0\COVIDManager.pdb
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\PresentationFramework.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Xaml.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\WindowsBase.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\PresentationCore.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\UIAutomationProvider.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\UIAutomationTypes.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\ReachFramework.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Printing.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\PresentationFramework.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Xaml.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\WindowsBase.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\PresentationCore.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\UIAutomationProvider.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\UIAutomationTypes.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\ReachFramework.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Printing.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\Denis\source\repos\COVID19\COVIDManager\obj\Debug\netstandard2.0\COVIDManager.csproj.CopyComplete
+C:\Users\Denis\source\repos\COVID19\COVIDManager\obj\Debug\netstandard2.0\COVIDManager.csproj.AssemblyReference.cache
+D:\Windows\Vs apps\repos\COVID19\COVIDManager\obj\Debug\netstandard2.0\COVIDManager.csproj.AssemblyReference.cache
+D:\Windows\Vs apps\repos\COVID19\COVIDManager\obj\Debug\netstandard2.0\COVIDManager.AssemblyInfoInputs.cache
+D:\Windows\Vs apps\repos\COVID19\COVIDManager\obj\Debug\netstandard2.0\COVIDManager.AssemblyInfo.cs
+D:\Windows\Vs apps\repos\COVID19\COVIDManager\obj\Debug\netstandard2.0\COVIDManager.csproj.CoreCompileInputs.cache
+D:\Windows\Vs apps\repos\COVID19\COVIDManager\obj\Debug\netstandard2.0\COVIDManager.dll
+D:\Windows\Vs apps\repos\COVID19\COVIDManager\obj\Debug\netstandard2.0\COVIDManager.pdb
+D:\Windows\Vs apps\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\COVIDManager.deps.json
+D:\Windows\Vs apps\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\COVIDManager.dll
+D:\Windows\Vs apps\repos\COVID19\COVIDManager\bin\Debug\netstandard2.0\COVIDManager.pdb
